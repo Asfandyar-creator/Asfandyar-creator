@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asfandyar-creator" alt="asfandyar-creator" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Generative AI** & **Agentic AI**
 
 - 🌱 I’m currently learning **AI Engineering**
 
