@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **AI Developer Team**
 
-- 🤝 I’m looking for help with **MLOps**
+- 🤝 I’m looking for help with **MLOps** & **LLMOps**
 
 - 👨‍💻 All of my projects are available at [https://asfandyar-datascientist.netlify.app/](https://asfandyar-datascientist.netlify.app/)
 
-- 💬 Ask me about **Data Science, Python, Machine Learning, Deep Learning**
+- 💬 Ask me about **Data Science, Python, Machine Learning, Deep Learning, Large Language Models**
 
 - 📫 How to reach me **asfandyarasfi21@gmail.com**
 
-- ⚡ Fun fact **I have good sense of humor**
+- ⚡ Fun fact **Might be a fun fack!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
