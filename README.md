@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Science, Python, Machine Learning, Deep Learning, Large Language Models**
 
-- 📫 How to reach me **asfandyarasfi21@gmail.com**
+- 📫 How to reach me **nameasfandyar@gmail.com**
 
 - ⚡ Fun fact **Might be a fun fack!**
 
