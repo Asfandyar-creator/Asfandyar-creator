@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nameasfandyar@gmail.com**
 
-- ⚡ Fun fact **Might be a fun fack!**
+- ⚡ Fun fact **Might be a fun fact!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
